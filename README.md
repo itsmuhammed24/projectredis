@@ -1,4 +1,4 @@
-# Projet d'Analyse et de Détection d'Anomalies sur les Transactions Financières avec Redis
+# Projet d'analyse et de détection d'anomalies sur les transactions financières avec Redis
 
 ## Description du projet
 Ce projet vise à développer une solution permettant l'analyse et la détection d'anomalies dans des transactions financières en utilisant **Redis** comme base de données en mémoire, **FastAPI** pour l'exposition des données via API, **Celery** pour l'automatisation des tâches, et **Streamlit** pour la visualisation des résultats. L'objectif est d'offrir une approche rapide et efficace pour stocker, analyser et surveiller les transactions, avec un accent particulier sur la détection des comportements frauduleux.
